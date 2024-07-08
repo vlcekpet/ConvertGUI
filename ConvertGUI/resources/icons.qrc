@@ -1,0 +1,14 @@
+<RCC>
+  <qresource prefix="images">
+    <file>images/italic.png</file>
+    <file>images/bold-icon.png</file>
+    <file>images/lockicon.png</file>
+    <file>images/blur.png</file>
+    <file>images/addtext.png</file>
+    <file>images/filter.png</file>
+    <file>images/crop.png</file>
+    <file>images/rotate.png</file>
+    <file>images/resize.png</file>
+    <file>images/vscht.jpeg</file>
+  </qresource>
+</RCC>

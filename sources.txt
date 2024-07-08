@@ -1,0 +1,44 @@
+-------QCrop package-------
+https://pypi.org/project/qcrop/
+
+-----------ICONS-----------
+
+add filter
+https://static.thenounproject.com/png/2370080-200.png
+
+crop
+https://cdn2.iconfinder.com/data/icons/social-messaging-productivity-1/128/photo-crop-512.png
+
+rotate
+https://cdn-icons-png.freepik.com/512/73/73450.png
+
+resize
+https://static-00.iconduck.com/assets.00/resize-icon-512x512-dw811pbd.png
+
+add text
+https://cdn-icons-png.flaticon.com/512/3159/3159359.png
+
+blur
+https://cdn-icons-png.flaticon.com/512/815/815484.png
+
+lock icon
+https://cdn1.iconfinder.com/data/icons/design-53/384/Link-512.png
+
+bold icon
+https://icons.iconarchive.com/icons/icons8/windows-8/512/Editing-Bold-icon.png
+
+italic icon
+https://cdn-icons-png.freepik.com/512/59/59377.png
+
+
+
+----------FONTS-----------
+
+Lora
+https://fonts.google.com/specimen/Lora
+
+Roboto Mono
+https://fonts.google.com/specimen/Roboto+Mono
+
+Work Sans
+https://fonts.google.com/specimen/Work+Sans

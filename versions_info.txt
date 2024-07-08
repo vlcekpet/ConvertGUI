@@ -1,0 +1,18 @@
+IMAGEMAGICK VERSION
+6.9.11
+
+PYTHON VERSION
+3.10
+
+Qt version
+5.15.3
+
+PyQt version
+5.15.6
+
+ADDITIONAL PACKAGES
+PyMuPDF - version 1.24.4
+
+
+Developed and tested on
+Ubuntu 22.04.4 LTS

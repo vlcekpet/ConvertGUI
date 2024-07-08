@@ -1,0 +1,24 @@
+Project info
+
+
+This project was developed by Petr Vlček under University of Chemistry and Technology as a bachelor thesis project
+
+Application is run with starting the main.py script in the main application's folder
+
+
+Known limitations
+
+Limit of operations:
+Application can preform maximum of 99 operations on selected files (logic of version tracking of class FileManager, methods handle_files and update_current_files) 
+
+Working with PDF files:
+in file /etc/ImageMagick-6/policy.xml
+the following line has to be edited:
+<policy domain="coder" rights="none" pattern="PDF" />
+to:
+<policy domain="coder" rights="read|write" pattern="PDF" />
+sudo access needed
+
+
+
+
